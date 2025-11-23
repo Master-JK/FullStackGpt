@@ -13,4 +13,5 @@ venv/
 # IDE related
 .vscode/
 .idea/
-.cache/
+.caches/
+.streamlit
