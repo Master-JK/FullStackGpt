@@ -14,5 +14,5 @@ dependencies = [
     "langchain-text-splitters>=1.0.0",
     "python-magic-bin>=0.4.14",
     "streamlit>=1.51.0",
-    "unstructured>=0.18.20",
+    "unstructured[all-docs,docx]>=0.18.20",
 ]
